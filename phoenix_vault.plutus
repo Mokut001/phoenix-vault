@@ -1,0 +1,6 @@
+
+{
+  "type": "PlutusScriptV2",
+  "description": "Phoenix Vault Legacy Recovery",
+  "cborHex": "5907c05907bd0100003232323232323222253330030011498444a4c600100122220011" 
+}
